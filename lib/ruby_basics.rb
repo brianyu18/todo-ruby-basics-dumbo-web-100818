@@ -21,8 +21,8 @@ def return_a_value(value)
   value
 end
 
-def last_evaluated_value
-
+def last_evaluated_value(item)
+  item
 end
 
 def pizza_party(topping)
